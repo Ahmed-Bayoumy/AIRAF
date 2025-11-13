@@ -1,2 +1,2 @@
-# AIRAF
+# UARAF
 AI Relative Adequacy Framework
