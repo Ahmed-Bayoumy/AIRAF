@@ -1,2 +1,2 @@
 # UARAF
-AI Relative Adequacy Framework
+Uncertainity-Aware Relative Adequacy Framework (in progress)
